@@ -1,14 +1,14 @@
 title:              My profile
-email:              tmdejr1117@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+email:              tmdejr1117@gmail.com
+description:        Hello World!
+author:             kimseungdeok
 baseurl:            "/blog"
-url:                "https://startbootstrap.github.io"
+url:                "https://kimseungdeok.github.io"
 
 # Social Profiles
 twitter_username:  
-github_username:
-facebook_username:  
+github_username: kimseungdeok
+facebook_username: 
 instagram_username:  
 linkedin_username:
 
